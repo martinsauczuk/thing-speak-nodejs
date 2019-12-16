@@ -1,0 +1,23 @@
+{
+  "name": "thing-speak-nodejs",
+  "version": "1.0.0",
+  "description": "Conexión a ThingSpeak utilizando Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martinsauczuk/thing-speak-nodejs.git"
+  },
+  "author": "Martin Sauczuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martinsauczuk/thing-speak-nodejs/issues"
+  },
+  "homepage": "https://github.com/martinsauczuk/thing-speak-nodejs#readme",
+  "dependencies": {
+    "node-cron": "^2.0.3",
+    "superagent": "^5.1.2"
+  }
+}
