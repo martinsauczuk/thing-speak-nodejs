@@ -13,12 +13,12 @@ Para instalar las dependencias Node.js. Este comando creará la carpeta node_mod
 
 Ejemplo 1: Obtiene la información de ThingSpeak.
 ```sh
-$ node app-basico.js
+$ node get-basico.js
 ```
 
 Ejemplo 2: Obtiene la información de ThingSpeak mediante un cron con un tiempo configurable
 ```sh
-$ node app-cron.js
+$ node get-cron.js
 ```
 
 
